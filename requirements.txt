@@ -1,0 +1,6 @@
+pandas
+kafka-python
+six
+boto3
+s3fs
+kafka-python-ng
